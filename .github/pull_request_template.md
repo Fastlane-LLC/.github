@@ -1,16 +1,16 @@
 ## What We're Doing
-A brief description of what we're trying to accomplish with this PR.
+<!-- A brief description of what we're trying to accomplish with this PR. -->
 
 ### Notion Docs
 [Notion task](https://www.notion.so/lossexpress/Change-doc-chunk-uploads-to-use-S3-instead-of-the-DB-as-a-temp-store-b6fe38039b0541eb9e56049f2c52e827)
 
-[Technical Implementation](https://www.notion.so/lossexpress/Document-Uploads-fc8e783d9fe846059701f889e15c0363)
+<!-- [Technical Implementation](https://www.notion.so/lossexpress/Document-Uploads-fc8e783d9fe846059701f889e15c0363) -->
 
 ### Checklists
 __Documentation:__
 - [ ] Commented code (explained _why_ code was the way it was)
-- [ ] Added technical details to Notion (high level documentation)
-- [ ] Added _at least one_ unit test
+- [ ] Added/updated technical details to Notion (high level documentation)
+- [ ] Added/updated _at least one_ unit test
 
 __Additional Requirements:__
 - [ ] Requires you to run `npm run migrate:latest`
@@ -21,4 +21,4 @@ __Additional Requirements:__
 - [ ] Requires infrastructure changes
 - [ ] Requires new environment variables (please list)
 
-**Please remember to assign the PR for review to someone, and drop them a line in Slack!**
+<!-- Please remember to assign the PR for review to someone, and drop them a line in Slack! -->
