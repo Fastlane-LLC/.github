@@ -20,3 +20,5 @@ __Additional Requirements:__
 - [ ] Requires xAPI updates
 - [ ] Requires infrastructure changes
 - [ ] Requires new environment variables (please list)
+
+**Please remember to assign the PR for review to someone, and drop them a line in Slack!**
