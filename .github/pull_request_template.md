@@ -1,14 +1,26 @@
-# <Feature Title>
+## What We're Doing
+<!-- A brief description of what we're trying to accomplish with this PR. -->
 
-JIRA ID: **_#ADD JIRA LINK HERE_**
+### Notion Docs
+<!-- 
+  [Notion task](https://www.notion.so/lossexpress/fake-task)
 
-PR Branch: **_#ADD LINK TO PR BRANCH_**
+  [Technical Implementation](https://www.notion.so/lossexpress/fake-doc)
+-->
 
-### Related PR(s)
-- **_#ADD RELATED PRs_**
+### Checklists
+__Documentation:__
+- [ ] Commented code (explained _why_ code was the way it was)
+- [ ] Added/updated technical details to Notion (high level documentation)
+- [ ] Added/updated _at least one_ unit test
 
-### E2E Validation Testing Checklist:
-- [ ] Unit tests completed
-- [ ] List checklist of things you've tested
+__Additional Requirements:__
+- [ ] Requires you to run `npm run migrate:latest`
+- [ ] Requires you to run `npm run docker:run "npm i"`
+- [ ] Requires xLien Interface (lossexpress-interface) updates
+- [ ] Requires CS Interface updates
+- [ ] Requires xAPI updates
+- [ ] Requires infrastructure changes
+- [ ] Requires new environment variables (please list)
 
-### Screenshots (if applicable)
+<!-- Please remember to assign the PR for review to someone, and drop them a line in Slack! -->
