@@ -22,5 +22,6 @@ __Additional Requirements:__
 - [ ] Requires xAPI updates
 - [ ] Requires infrastructure changes
 - [ ] Requires new environment variables (please list)
+- [ ] For backends, are these changes backwards compatible? i.e.: Will the current frontends, without any changes, work as expected when the API changes are deployed?
 
 <!-- Please remember to assign the PR for review to someone, and drop them a line in Slack! -->
