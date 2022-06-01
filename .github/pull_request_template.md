@@ -16,15 +16,18 @@ __Documentation:__
 - [ ] Added/updated technical details to Notion (high level documentation)
 - [ ] Added/updated _at least one_ unit test
 - [ ] Updated package.json versioning
+- [ ] Updated API Documentation
 
 __Additional Requirements:__
 - [ ] Requires you to run `npm run migrate:latest`
 - [ ] Requires you to run `npm run docker:run "npm i"`
-- [ ] Requires xLien Interface (lossexpress-interface) updates
-- [ ] Requires CS Interface updates
-- [ ] Requires xAPI updates
+- [ ] Requires xLien Interface updates
+- [ ] Requires Claims Specialists Interface updates
+- [ ] Requires External API updates
 - [ ] Requires xPayoff API updates
 - [ ] Requires xPayoff Fulfillment Center updates
+- [ ] Requires xPayoff Dev Portal updates
+- [ ] Requires DT Scraper updates
 - [ ] Requires infrastructure changes
 - [ ] Requires new environment variables (please list)
 - [ ] Deploy after hours
