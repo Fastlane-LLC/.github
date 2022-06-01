@@ -1,11 +1,14 @@
 ## What We're Doing
 <!-- A brief description of what we're trying to accomplish with this PR. -->
 
-### Notion Docs
-<!-- 
+<!-- ### Notion Docs
   Links to any supplemental documentation
   [Technical Implementation](https://www.notion.so/lossexpress/fake-doc)
 -->
+
+## Demo (Screenshots / Video)
+
+## QA Notes
 
 ### Checklists
 __Documentation:__
