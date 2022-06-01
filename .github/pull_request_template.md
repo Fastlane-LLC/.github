@@ -12,6 +12,7 @@ __Documentation:__
 - [ ] Commented code (explained _why_ code was the way it was)
 - [ ] Added/updated technical details to Notion (high level documentation)
 - [ ] Added/updated _at least one_ unit test
+- [ ] Updated package.json versioning
 
 __Additional Requirements:__
 - [ ] Requires you to run `npm run migrate:latest`
