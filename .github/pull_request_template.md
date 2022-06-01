@@ -3,8 +3,7 @@
 
 ### Notion Docs
 <!-- 
-  [Notion task](https://www.notion.so/lossexpress/fake-task)
-
+  Links to any supplemental documentation
   [Technical Implementation](https://www.notion.so/lossexpress/fake-doc)
 -->
 
@@ -20,8 +19,11 @@ __Additional Requirements:__
 - [ ] Requires xLien Interface (lossexpress-interface) updates
 - [ ] Requires CS Interface updates
 - [ ] Requires xAPI updates
+- [ ] Requires xPayoff API updates
+- [ ] Requires xPayoff Fulfillment Center updates
 - [ ] Requires infrastructure changes
 - [ ] Requires new environment variables (please list)
+- [ ] Deploy after hours
 - [ ] For backends, are these changes backwards compatible? i.e.: Will the current frontends, without any changes, work as expected when the API changes are deployed?
 
 <!-- Please remember to assign the PR for review to someone, and drop them a line in Slack! -->
