@@ -1,36 +1,8 @@
-## What We're Doing
-<!-- A brief description of what we're trying to accomplish with this PR. -->
+# Overview
+<!-- This should be a concise but informative couple of sentences that talk through what problem is being solved and what was done to solve that problem in the PR. If you don't know the problem you're solving, ask a PM! (Preferably long before opening a PR, though.) -->
 
-<!-- ### Notion Docs
-  Links to any supplemental documentation
-  [Technical Implementation](https://www.notion.so/lossexpress/fake-doc)
--->
-
-## Demo (Screenshots / Video)
+## Changes
+<!-- This should be a bulleted list of changes. Keep it short but a bit more informative than a commit message. The idea is to give the reviewer (and to an extent, even QA) a good idea as to what all changed before they even look at code. Mention functions that have changed, new files changed or renamed, added routes, etc. -->
 
 ## QA Notes
-
-### Checklists
-__Documentation:__
-- [ ] Commented code (explained _why_ code was the way it was)
-- [ ] Added/updated technical details to Notion (high level documentation)
-- [ ] Added/updated _at least one_ unit test
-- [ ] Updated package.json versioning
-- [ ] Updated API Documentation
-
-__Additional Requirements:__
-- [ ] Requires you to run `npm run migrate:latest`
-- [ ] Requires you to run `npm run docker:run "npm i"`
-- [ ] Requires xLien Interface updates
-- [ ] Requires Claims Specialists Interface updates
-- [ ] Requires External API updates
-- [ ] Requires xPayoff API updates
-- [ ] Requires xPayoff Fulfillment Center updates
-- [ ] Requires xPayoff Dev Portal updates
-- [ ] Requires DT Scraper updates
-- [ ] Requires infrastructure changes
-- [ ] Requires new environment variables (please list)
-- [ ] Deploy after hours
-- [ ] For backends, are these changes backwards compatible? i.e.: Will the current frontends, without any changes, work as expected when the API changes are deployed?
-
-<!-- Please remember to assign the PR for review to someone, and drop them a line in Slack! -->
+<!-- How did you test this? How can QA go about testing this? If you don't have an answer for one, find one! If there's nothing really to test, please note that here and be prepared to potentially answer as to why. -->
